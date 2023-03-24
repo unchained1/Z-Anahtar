@@ -35,12 +35,14 @@ For example:
 Z-Anahtar’da Nasıl Hesap Oluşturulur ve Giriş Yapılır
 ----------------
 1.	Z-Anahtar’da Nasıl Hesap Oluşturulur
+----------------
 Z-Anahtar’da bir hesaba sahip olabilmek için 2 farklı hesap açma yöntemi vardır.
 
 a.	Hızlı Giriş: Telefon numarası ve mail adresi ile kayıt olarak yapılan bir giriş yöntemidir. 
 Aşağıdaki alanlarda arzu edilen bilgiler kayıt edilerek bir hesap açılabilmektedir.
 
  .. image:: C:\Users\TCEMBALCI\Desktop/Hızlı Giriş.jpg
+   :width: 429
 
 b.	e-Devlet İle Kayıt: TCKN bilgisi ve e-Devlet şifresi ile Z-Anahtar’a kayıt açılabilmektedir. Bu kayıt sayesinde direkt olarak uygulamaya girilebilmektedir.
  
@@ -50,8 +52,11 @@ b.	e-Devlet İle Kayıt: TCKN bilgisi ve e-Devlet şifresi ile Z-Anahtar’a kay
 
 
 2.	Z-Anahtar’a Nasıl Giriş Yapılır?
+----------------
 Z-Anahtar’a giriş yapabilmenin 3 farklı yöntemi vardır.
+
 a.	Hızlı Giriş: Hızlı giriş ile sadece cep telefonu numarası girerek giriş yapılabilmektedir. Öncelikle Z-Anahtar’a tanımlanan cep telefonu numarası girilir ve akabinde cep telefona gelen OTP mesajı ile işlem doğrulanır. Akabinde de kullanıcı daha önceden belirlediği hızlı giriş şifresi ile Z-Anahtar’a giriş yapar.
+
 b.	
    
 
