@@ -1,4 +1,4 @@
-Usage
+Emre
 =====
 
 .. _installation:
@@ -12,7 +12,7 @@ To use Lumache, first install it using pip:
 
    (.venv) $ pip install lumache
 
-Creating recipes
+Mikail
 ----------------
 
 To retrieve a list of random ingredients,
