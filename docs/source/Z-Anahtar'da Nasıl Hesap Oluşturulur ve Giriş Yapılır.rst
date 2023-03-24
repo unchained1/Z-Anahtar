@@ -41,8 +41,8 @@ Z-Anahtar’da bir hesaba sahip olabilmek için 2 farklı hesap açma yöntemi v
 a.	Hızlı Giriş: Telefon numarası ve mail adresi ile kayıt olarak yapılan bir giriş yöntemidir. 
 Aşağıdaki alanlarda arzu edilen bilgiler kayıt edilerek bir hesap açılabilmektedir.
 
- .. image:: C:\Users\TCEMBALCI\Desktop/Hızlı Giriş.png
-   :width: 429
+ .. image:: C:\Users\TCEMBALCI\Desktop/Header+Blog.png
+   :width: 1500
    
 
 b.	e-Devlet İle Kayıt: TCKN bilgisi ve e-Devlet şifresi ile Z-Anahtar’a kayıt açılabilmektedir. Bu kayıt sayesinde direkt olarak uygulamaya girilebilmektedir.
