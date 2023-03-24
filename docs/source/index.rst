@@ -1,16 +1,15 @@
 Z-Anahtar Dökümantasyonlarına Hoşgeldiniz!
 ===================================
 
-**Z-Anahtar** (/lu'make/) Z-Anahtar, e-Devlet üzerinden aldığınız Giriş Kimliğiniz ile e-Devlet platformuna kendinizi kanıtlayabildiğiniz ve güvenli bir şekilde platforma giriş yapmanızı sağlayan blokzincir teknolojisi ile geliştirilmiş dijital kimlik yönetim uygulamasıdır.
+**Z-Anahtar** Z-Anahtar, e-Devlet üzerinden aldığınız Giriş Kimliğiniz ile e-Devlet platformuna kendinizi kanıtlayabildiğiniz ve güvenli bir şekilde platforma giriş yapmanızı sağlayan blokzincir teknolojisi ile geliştirilmiş dijital kimlik yönetim uygulamasıdır.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Z-Anahtar ile ilgili dökümanları takip ederek, Z-Anahtar hakkındaki temel ve teknik bilgilere ulaşabilirsiniz. 
 
 .. note::
 
    Bu proje geliştirilmeye devam edilmektedir.
 
-Contents
+İçerikler
 --------
 
 .. toctree::
@@ -23,4 +22,4 @@ Contents
    Z-Anahtar Mimarisi
    Z-Anahtar Kampanya Oluşturma Adımları
    Z-Anahtar Hakkında SSS
-Lumache has its documentation hosted on Read the Docs.
+
