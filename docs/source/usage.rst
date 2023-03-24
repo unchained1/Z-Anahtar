@@ -1,4 +1,4 @@
-Usage
+UsageXXXX
 =====
 
 .. _installation:
@@ -32,3 +32,10 @@ For example:
 >>> lumache.get_random_ingredients()
 ['shells', 'gorgonzola', 'parsley']
 
+
+Emre
+----------------
+
+
+To retrieve a list of random ingredients,
+you can use the ``lumache.get_random_ingredients()`` function:
