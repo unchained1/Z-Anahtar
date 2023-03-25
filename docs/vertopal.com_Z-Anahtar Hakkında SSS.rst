@@ -1,4 +1,4 @@
-1: 'Z-Anahtar’a nasıl giriş yaparım?'
+**1: 'Z-Anahtar’a nasıl giriş yaparım?'**
 
 'Z-Anahtar’u cep telefonunuza indirdikten sonra “Hızlı Giriş” butonu ile
 giriş yapabilirsiniz. Detaylı bilgi için
@@ -10,7 +10,7 @@ seçeneği açılır. Dilediğiniz yöntemle giriş yapabilirsiniz. Biyometrik
 giriş seçeneğinde telefonunuzda daha önceden belirlemiş olduğunuz Touch
 ID veya Face ID kullanılır.',
 
-2: 'Dijital kimliğimi nereden alırım?'
+**2: 'Dijital kimliğimi nereden alırım?'**
 
 'İlk girişinizde Z-Anahtar’da yalnızca mobil kimliğiniz olacaktır. Çipli
 T.C. Kimlik Kartınızı ya da pasaportunuzu “Kimliklerim” bölümündeki
@@ -22,7 +22,7 @@ ekleyebilirsiniz. Böylece Z-Anahtar ekosisteminde olan farklı kimlik
 kartlarınız (çalışan kimliği, öğrenci kimliği, kulüp kimlikleri,
 markaların sadakat programı kartları vb.) dijitalleştirilmiş olur.',
 
-3: 'Dijital kimliğimi nasıl alırım?'
+**3: 'Dijital kimliğimi nasıl alırım?'**
 
 'İlk girişinizde Z-Anahtar’da mobil kimliğiniz dışında kayıtlı
 kimliğiniz olmayacaktır. Çipli T.C. Kimlik Kartınızı ya da pasaportunuzu
@@ -35,7 +35,7 @@ farklı kimlik kartlarınız (çalışan kimliği, öğrenci kimliği, kulüp
 kimlikleri, markaların sadakat programı kartları vb.) dijitalleştirilmiş
 olur.',
 
-4: 'Aldığım kimlik ile Z-Anahtar’da hangi bilgilerim gelir?'
+**4: 'Aldığım kimlik ile Z-Anahtar’da hangi bilgilerim gelir?'**
 
 'Kimliğinizi aldığınız kurumlarda olan size ait tüm bilgileri
 Z-Anahtar’a aktarabilirsiniz. Örneğin, öğrenci kimliğinizin üzerindeki
@@ -44,7 +44,7 @@ vs.) dijital olarak da almanız mümkündür. Z-Anahtar dijital
 kimliklerinizi size sunarken, sizlere ait hiçbir veriyi veri merkezinde
 saklamaz.',
 
-5: 'Z-Anahtar’a istediğim her kimliğimi kaydedebilir miyim?'
+**5: 'Z-Anahtar’a istediğim her kimliğimi kaydedebilir miyim?'**
 
 'İlgili kimlik sağlayıcı kurum veya kuruluş dijital ortamda kimliğinizi
 size sağladığı sürece her türlü kimliğinizi ekleyebilirsiniz. Çalışan ya
@@ -54,7 +54,7 @@ da müşteri gibi kimliklerinizi Z-Anahtar’da toparlayabilirsiniz. Ayrıca
 belgenizi Z-Anahtar’a ekleyebilmeniz için öğrencilik durumunuzun aktif
 olması gerekmektedir.',
 
-6: 'Kimliklerim nereye kaydediliyor?'
+**6: 'Kimliklerim nereye kaydediliyor?'**
 
 'Z-Anahtar’a eklediğiniz kimlikler sadece mobil telefonunuzdaki
 Z-Anahtar uygulamasında olur. Herhangi bir kurumun veri merkezine
@@ -65,7 +65,7 @@ bilgilere ulaşabilirler. Z-Anahtar kişisel verilerinizi korumak için
 blokzincir teknolojisi ile geliştirilmiştir ve sizin onayınız olmadan
 hiçbir kişisel veriniz herhangi bir kurumla paylaşılmaz.',
 
-7: 'Dijital kimliğimi nerelerde kullanabilirim?'
+**7: 'Dijital kimliğimi nerelerde kullanabilirim?'**
 
 Z-Anahtar ekosistemine dahil olan kurumlar tarafından kimliğin beyanını
 talep eden her işlemde dijital kimliklerinizi kanıtlayabilirsiniz.
@@ -76,7 +76,7 @@ Ayrıca kimliklerinizi Z-Anahtar’a ekledikten sonra “Bana Özel”
 bölümünden dijital kimliğinizi nerelerde kullanabileceğiniz hakkında
 bilgi alabilirsiniz.,
 
-8: 'Dijital kimliğimi nasıl kanıtlarım?'
+**8: 'Dijital kimliğimi nasıl kanıtlarım?'**
 
 'Dijital kimliğinizi kanıtlamanızı isteyen kurumların dijital
 platformlarında yer alan “Z-Anahtar ile Kimliğini Kanıtla” butonuna
@@ -92,14 +92,14 @@ paylaşımına onay verdiğinizde kimliğinizi kuruma kanıtlamış olursunuz.
 Böylece kurumun size özel belirlediği ayrıcalıklardan Z-Anahtar ile
 kimliğinizi kanıtlayarak yararlanmış olursunuz.',
 
-9: 'Mobil telefonumdan kimliğimi alabilir/kanıtlayabilir miyim?'
+**9: 'Mobil telefonumdan kimliğimi alabilir/kanıtlayabilir miyim?'**
 
 'Web sayfalarından Z-Anahtar kamerası ile QR kod okutarak
 doğruladığınız/sorguladığınız dijital kimliklerinizi destekleyen
 telefonlarda buton veya yönlendirme aracılığı ile doğrulayabilir veya
 kullanabilirsiniz. Böylece iki ekrana ihtiyacınız kalmaz.',
 
-10: 'Kimlik bilgilerimi değiştirebilir miyim?'
+**10: 'Kimlik bilgilerimi değiştirebilir miyim?'**
 
 'Dijital kimliklerimiz de günümüzde aldığımız ve cüzdanımızda
 sakladığımız kimlikler gibi geçerli ve güvenlidir. Bu kimliklerdeki
@@ -109,7 +109,7 @@ gerekir. Z-Anahtar’a eklediğiniz dijital kimliğinizde değişen bu tür
 bilgileriniz için de yine kuruma başvurarak, daha önce yaptığınız gibi
 yeni kimliğinizi tekrar Z-Anahtar’a eklemeniz gerekir.',
 
-11: 'Kimlik bilgilerimi ya da kimliklerimi silebilir miyim?'
+**11: 'Kimlik bilgilerimi ya da kimliklerimi silebilir miyim?'**
 
 'Z-Anahtar’a eklediğiniz kimlikleri kimliğinizin detay ekranından
 silebilirsiniz. Ancak kimlik içerisinde yer alan bazı bilgileri
