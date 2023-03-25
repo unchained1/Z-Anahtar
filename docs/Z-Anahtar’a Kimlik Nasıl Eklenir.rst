@@ -1,6 +1,6 @@
 **Z-Anahtar’a Kimlik Nasıl Eklenir?**
 
-1. Çipli Kimlik Ekleme
+**1. Çipli Kimlik Ekleme**
 
 a. Çipli resmi kimliğinizi “Ekle” butonunun altındaki “Çipli Kimlik
    Ekleme” butonu ile ulaşabileceğiniz aşağıdaki doğrulama akışını
@@ -14,7 +14,7 @@ c. Kimliğinizin çipli kısmını telefonunuzun arkasına dokundurup işlem
 d. Son olarak yüzünüzü de kameraya göstererek yönlendirmeleri takip
    edin.
 
-2. Karekod ile Kimlik Ekleme
+**2. Karekod ile Kimlik Ekleme**
 
 a. Çalışan, öğrenci ya da müşteri kulüp kimlikleri gibi QR kod ile
    eklenebilecek kimlikleri “Ekle” butonunun altındaki “QR ile Ekleme”
