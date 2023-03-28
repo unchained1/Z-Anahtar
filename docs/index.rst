@@ -13,13 +13,15 @@ Z-Anahtar ile ilgili dökümanları takip ederek, Z-Anahtar hakkındaki temel ve
 --------
 
 .. toctree::
+   :maxdepth: 2
 
-   Z-Anahtar'da Nasıl Hesap Oluşturulur ve Giriş Yapılır
-   Z-Anahtar'a Kimlik Nasıl Eklenir
-   Z-Anahtar Servis Sağlayıcı Kaydı
-   Z-Anahtar Production Kurulum Adımları
-   Z-Anahtar Nedir?
-   Z-Anahtar Mimarisi
-   Z-Anahtar Kampanya Oluşturma Adımları
-   Z-Anahtar Hakkında SSS
+   z_anahtar/index
+   z_anahtar/hesap_olusturma
+   z_anahtar/kimlik_ekleme
+   z_anahtar/servis_saglayici_kaydi
+   z_anahtar/kurulum_adimlari
+   z_anahtar/nedir
+   z_anahtar/mimarisi
+   z_anahtar/kampanya_olusturma
+   z_anahtar/sss
 
