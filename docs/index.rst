@@ -26,6 +26,7 @@ Z-Anahtar ile ilgili dökümanları takip ederek, Z-Anahtar hakkındaki temel ve
 
 .. include:: Z-Anahtar Nedir.rst
 .. include:: Z-Anahtar Hakkında SSS.rst
+.. include:: Z-Anahtar’a Kimlik Nasıl Eklenir.rst 
 .. include:: Z-Anahtar Mimarisi.rst
 .. include:: Z-Anahtar Servis Sağlayıcı Kaydı.rst
-.. include:: Z-Anahtar’a Kimlik Nasıl Eklenir.rst         
+        
