@@ -13,7 +13,7 @@ Z-Anahtar ile ilgili dökümanları takip ederek, Z-Anahtar hakkındaki temel ve
 --------
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 3
 
    z_anahtar/hesap_olusturma
    z_anahtar/kimlik_ekleme
