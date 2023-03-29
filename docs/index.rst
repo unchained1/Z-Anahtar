@@ -23,7 +23,7 @@ Z-Anahtar ile ilgili dökümanları takip ederek, Z-Anahtar hakkındaki temel ve
    z_anahtar/mimarisi
    z_anahtar/kampanya_olusturma
    z_anahtar/sss
-   `z_anahtar/hesap_olusturma <#z_anahtar/hesap_olusturma>`__ `2 <z_anahtar/hesap_olusturma>`__
+   `z_anahtar/hesap_olusturma <#z_anahtar/hesap_olusturma>`__ ` <z_anahtar/hesap_olusturma>`__
 
 .. include:: Z-Anahtar Nedir.rst
 .. include:: Z-Anahtar Hakkında SSS.rst
