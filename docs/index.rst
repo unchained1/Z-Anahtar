@@ -13,7 +13,7 @@ Z-Anahtar ile ilgili dökümanları takip ederek, Z-Anahtar hakkındaki temel ve
 --------
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    z_anahtar/hesap_olusturma
    z_anahtar/kimlik_ekleme
@@ -23,8 +23,7 @@ Z-Anahtar ile ilgili dökümanları takip ederek, Z-Anahtar hakkındaki temel ve
    z_anahtar/mimarisi
    z_anahtar/kampanya_olusturma
    z_anahtar/sss
-   `z_anahtar/hesap_olusturma <#z_anahtar/hesap_olusturma>`__ ` <z_anahtar/hesap_olusturma>`__
-
+   
 .. include:: Z-Anahtar Nedir.rst
 .. include:: Z-Anahtar Hakkında SSS.rst
 .. include:: Z-Anahtar’a Kimlik Nasıl Eklenir.rst 
