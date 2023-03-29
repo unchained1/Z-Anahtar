@@ -15,7 +15,7 @@ Z-Anahtar ile ilgili dökümanları takip ederek, Z-Anahtar hakkındaki temel ve
 .. toctree::
    :maxdepth: 2
 
-   z_anahtar/docs/hesap_olusturma
+   Z-Anahtar Hakkında SSS.rst
    z_anahtar/kimlik_ekleme
    z_anahtar/servis_saglayici_kaydi
    z_anahtar/kurulum_adimlari
