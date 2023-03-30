@@ -12,20 +12,20 @@
 
    Telefon: +1 (123) 456-7890
 
-.. admonition:: E-posta
+.. admonition:: E-posta Örneği
 
-E-posta: 123456@turkcell.com
+   E-posta: john.doe@example.com
 
 **Servis Sağlayıcı Genel Bilgiler (Zorunlu Değil)**
 
-.. admonition:: Servis Adı
+.. admonition:: Servis Adı Örneği
 
-Servis Adı(Client ID): Turkcell
+   Servis Adı: MyService
 
-.. admonition:: Tanım
+.. admonition:: Tanım Örneği
 
-Tanım: Z-Anahtar
+   Tanım: Bu servis, kullanıcıların kayıtlı kitaplarını listelemelerine olanak tanır.
 
-.. admonition:: Firma İsmi
-    
-Firma İsmi: Turkcell
+.. admonition:: Firma İsmi Örneği
+
+   Firma İsmi: ACME Inc.
