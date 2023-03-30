@@ -12,7 +12,7 @@ Z-Anahtar ile ilgili dökümanları takip ederek, Z-Anahtar hakkındaki temel ve
    Bu proje geliştirilmeye devam edilmektedir.
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
    Z-Anahtar Nedir <Z-Anahtar Nedir.rst>
    Z-Anahtar Mimarisi <Z-Anahtar Mimarisi.rst>
