@@ -142,8 +142,7 @@ anahtar değeri blokzincir ağındaki defterde tutulur. Kimlik sağlayıcı ve
 doğrulayıcı kurumlar Z-AnahtarNet API servisi aracılığı ile blokzincir
 üzerinden dijital kimlik yönetimini gerçekleştirir.
 
-Akışlar
-=======
+**Akışlar**
 
 **Z-Anahtar Uygulamasına Giriş**
 
