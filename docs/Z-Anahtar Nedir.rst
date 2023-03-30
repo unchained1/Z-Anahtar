@@ -41,8 +41,8 @@ Tanıma <#çipli-kimlik-ile-kullanıcıyı-tanıma>`__
 
 .. _section-1:
 
-Z-Anahtar Mobil Uygulama
-========================
+**Z-Anahtar Mobil Uygulama**
+
 
 Z-Anahtar, e-Devlet üzerinden aldığınız Giriş Kimliğiniz ile e-Devlet
 platformuna kendinizi kanıtlayabildiğiniz ve güvenli bir şekilde
@@ -54,19 +54,19 @@ Z-Anahtar Backend, Z-Anahtar Mobil Uygulaması bileşenleri bulunmaktadır.
 Bu bileşenlerle birlikte kullanıcı senaryoları ve süreçleri
 yapılandırılmıştır.
 
-Bileşenler
-==========
+**Bileşenler**
 
-Z-AnahtarNet API
-----------------
+
+**Z-AnahtarNet API**
+
 
 Z-AnahtarNet API servisi mimaride blokzincir ile Z-Anahtar mobil
 uygulaması arasında konumlanan blokzincir ile ilgili işlemlerin
 yapılmasını sağlayan servistir. Kimlik sağlama ve doğrulama işlemlerini
 yönetir.
 
-Z-Anahtar Backend ve Veritabanı
--------------------------------
+**Z-Anahtar Backend ve Veritabanı**
+
 
 Z-Anahtar Backend servisi mobil uygulamanın dijital kimlik dışında kalan
 işlemleri (ayarlar, versiyon vb) gerçekleştirmek için geliştirilmiştir.
@@ -89,8 +89,8 @@ sözleşmesi onayı ile birlikte eşleştirilecektir.
 
  
 
-BlokZincir Ağı (Hyperledger Indy)
----------------------------------
+**BlokZincir Ağı (Hyperledger Indy)**
+
 
 Z-anahtar uygulaması blokzincir altyapısı olarak Hyperledger Indy'i
 kullanmaktadır. Hyperledger Indy, merkezi olmayan kimlik için özel
@@ -145,8 +145,8 @@ doğrulayıcı kurumlar Z-AnahtarNet API servisi aracılığı ile blokzincir
 Akışlar
 =======
 
-Z-Anahtar Uygulamasına Giriş
-----------------------------
+**Z-Anahtar Uygulamasına Giriş**
+
 
 Z-Anahtar uygulamasına e-Devlet Kapısı ile giriş yöntemi ve cihazlarda
 bulunan biyometrik giriş ile 2 şekilde giriş gerçekleştirilecektir.
@@ -166,8 +166,8 @@ backend servisine aktarılır. Böylece mobil uygulamanın anahtar değerini
 ele geçirebilecek kötü niyetli kişiler backend tarafındaki anahtarı
 edinemeyeceği için cüzdana erişemez.
 
-Biyometrik Giriş
-----------------
+**Biyometrik Giriş**
+
 
 Cihazında biyometrik giriş ayarları aktif olan kullanıcılar Z-Anahtar'a
 biyometrik giriş (Touch ID,Face ID, parmak izi) seçeneği de ekleyebilir.
@@ -176,8 +176,8 @@ zorunludur. Kullanıcı dilerse biyometrik girişi ayarlardan kapatabilir.
 Kullanıcı biyometrik girişi seçmiş olsa dahi, belli sayıda giriş sonrası
 tekrar şifre + OTP zorunlu tutulur, böylece güvenlik arttırılır.
 
-QR Kod ile Dijital Kimlik Ekleme
---------------------------------
+**QR Kod ile Dijital Kimlik Ekleme**
+
 
 Z-Anahtar'a kimlik sağlayıcı olarak entegre olan kurumun sistemine
 (başlangıçta yalnız e-Devlet olacak) güvenli giriş yaparak, burada
@@ -195,8 +195,8 @@ alabilir. Bu durum da yeni tip bir kimlik, pasaport çıkarttığımızda
 eskisinin imha edilmesi süreci ile eşleştirilebilir. Kimlik tiplerine
 göre buradaki güvenlik seviyesi düşürülebilir veya arttırılabilir.
 
-Kimlik Sağlayıcı (e-Devlet)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Kimlik Sağlayıcı (e-Devlet)**
+
 
 e-Devlet’e giriş yaptıktan sonra uygun bir sayfasında kimlik sahibine
 özel QR kod gösterilir. Kullanıcı Z-Anahtar üzerinden bu QR kodu okutur
@@ -209,8 +209,8 @@ içerisinde kullanıcının dijital giriş kimliğinin oluşturulduğu bir ekran
 içerisinde kullanıcıya özel QR kod paylaşılır. Kullanıcı bu kodu
 okutarak Z-Anahtar içerisine e-Devlet Giriş Kimliği'ni eklemiş olur.
 
-Kimlik Doğrulayıcı (e-Devlet)
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+**Kimlik Doğrulayıcı (e-Devlet)**
+
 
 Kurumun tercihine göre konumlanan kimlik doğrulama adımına gelindiğinde
 QR kod gösterimi yapılır. QR okuyucu ile doğrulanmak istenen dijital
@@ -224,8 +224,8 @@ verir.
 
  
 
-Çipli Kimlik ile Kullanıcıyı Tanıma
------------------------------------
+**Çipli Kimlik ile Kullanıcıyı Tanıma**
+
 
 Kullanıcı “Kimliklerim” ekranındaki yönlendirmeleri takip ederek çipli
 T.C Kimlik aracılığı ile kendini Z-Anahtar'a tanıtabilir. Kimlik
@@ -238,8 +238,8 @@ kontrolü ile kimlik sahibi doğrulanır. Kontroller cihaz içerisinde
 gerçekleşir. Biyometrik veri doğrulama sürecinde veriler sunucuya
 kaydedilmez, herhangi bir veritabanında tutulmaz.
 
-Uygulamayı silme
-----------------
+**Uygulamayı silme**
+
 
 Z-Anahtar uygulamasını cihazından kaldıran kullanıcının tüm dijital
 kimlik verileri de silinmiş olur. Tek seferde tüm kimlikleri siler gibi
