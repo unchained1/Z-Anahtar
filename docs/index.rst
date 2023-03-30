@@ -14,31 +14,8 @@ Z-Anahtar ile ilgili dökümanları takip ederek, Z-Anahtar hakkındaki temel ve
 .. toctree::
    :maxdepth: 2
 
-   Z-Anahtar Nedir
-   Z-Anahtar'a Kimlik Nasıl Eklenir
-   Z-Anahtar Hakkında SSS
-   Z-Anahtar Mimarisi
-   Z-Anahtar Servis Sağlayıcısı Kaydı
-
-.. rubric:: A
-
-**Z-Anahtar Nedir**
-
-* :ref:`Z-Anahtar Nedir`
-* :ref:`chapter3`
-
-**Automation**
-
-* :ref:`chapter2`
-
-.. rubric:: B
-
-**Banana**
-
-* :ref:`chapter1`
-* :ref:`chapter3`
-
-**Bootstrap**
-
-* :ref:`chapter2`
-
+   Z-Anahtar Nedir <Z-Anahtar Nedir.rst>
+   Z-Anahtar Mimarisi <Z-Anahtar Mimarisi.rst>
+   Z-Anahtar Hakkında SSS <Z-Anahtar Hakkında SSS.rst>
+   Z-Anahtar Servis Sağlayıcı Kaydı <Z-Anahtar Servis Sağlayıcı Kaydı.rst>
+   Z-Anahtar’a Kimlik Nasıl Eklenir <Z-Anahtar’a Kimlik Nasıl Eklenir.rst>
