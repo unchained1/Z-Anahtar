@@ -3,27 +3,24 @@
 
 **İletişim Bilgileri**
 
-.. admonition:: İsim / Soyisim Örneği
-İsim / Soyisim
+.. admonition:: İsim / Soyisim 
 
-.. admonition:: İsim / Soyisim Örneği
+   İsim: Emre
+   Soyisim: Balcı
 
-   İsim: John
-   Soyisim: Doe
+.. admonition:: Telefon Numarası
+Telefon: 063663663636
 
-.. admonition::
-Telefon
-
-.. admonition::
-E-posta
+.. admonition:: E-posta
+E-posta: 123456@turkcell.com
 
 **Servis Sağlayıcı Genel Bilgiler (Zorunlu Değil)**
 
-.. admonition::
-Servis Adı(Client ID)
+.. admonition:: Servis Adı
+Servis Adı(Client ID): Turkcell
 
-.. admonition::
-Tanım
+.. admonition:: Tanım
+Tanım: Z-Anahtar
 
-.. admonition::
-Firma İsmi
+.. admonition:: Firma İsmi
+Firma İsmi: Turkcell
